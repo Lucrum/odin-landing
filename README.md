@@ -1,1 +1,3 @@
-# odin-landing
+# landing
+
+A sample landing page
